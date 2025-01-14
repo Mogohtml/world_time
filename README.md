@@ -1,16 +1,10 @@
 # world_time
 
-A new Flutter project.
+Это приложение на Flutter реализованное с помощью API, Навигации итд 
 
-## Getting Started
+## Для чего приложение?
 
-This project is a starting point for a Flutter application.
+Это приложение сугубо функциональное и служит лля того чтобы люди могли просматривать какой сейчас час в другой стране и/или городе
 
-A few resources to get you started if this is your first Flutter project:
+Я начал работу над ним исключительно ради практики
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
